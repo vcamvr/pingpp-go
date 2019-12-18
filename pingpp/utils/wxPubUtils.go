@@ -133,7 +133,7 @@ func GetJsapiTicket(app_id string, app_secret string) (ticket string) {
 		}
 		if errs != nil {
 			if pingpp.LogLevel > 0 {
-				log.Printf("Cannot Unmarshal AccessToken struct:", errs)
+				log.Printf("Cannot Unmarshal AccessToken struct: %s", errs.Error())
 			}
 		}
 	} else {
@@ -160,7 +160,7 @@ func GetJsapiTicket(app_id string, app_secret string) (ticket string) {
 		}
 		if err != nil {
 			if pingpp.LogLevel > 0 {
-				log.Printf("Cannot Unmarshal JsapiTicket struct:", err)
+				log.Printf("Cannot Unmarshal JsapiTicket struct: %s", err.Error())
 			}
 		}
 		ticket = jsapiTicket.Ticket

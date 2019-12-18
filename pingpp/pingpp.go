@@ -12,7 +12,7 @@ import (
 
 const (
 	// 当前版本的api地址
-	apiBase = "https://api.pingxx.com/v1"
+	apiBase = "https://api.pingplusplus.com/v1"
 	// 当前版本的api生成生成时间
 	apiVersion = "2017-06-30"
 	// httpclient等待时间
