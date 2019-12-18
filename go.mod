@@ -1,4 +1,4 @@
-module github.com/vcamvr/pingpp-go
+module github.com/vcamvr/pingpp-go/v2
 
 go 1.13
 
