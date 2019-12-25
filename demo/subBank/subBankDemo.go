@@ -8,8 +8,8 @@
 package subBank
 
 import (
-	"github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/subBank"
+	"github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/subBank"
 )
 
 // Demo 银行支行示例

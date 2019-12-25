@@ -13,9 +13,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/pingplusplus/pingpp-go/demo/common"
-	pingpp "github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/charge"
+	"github.com/vcamvr/pingpp-go/demo/common"
+	pingpp "github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/charge"
 	//"io/ioutil"
 )
 

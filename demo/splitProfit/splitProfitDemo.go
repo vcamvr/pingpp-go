@@ -8,8 +8,8 @@
 package splitProfit
 
 import (
-	"github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/splitProfit"
+	"github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/splitProfit"
 )
 
 // Demo 分账示例

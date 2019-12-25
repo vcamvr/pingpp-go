@@ -11,8 +11,8 @@ import (
 	"math/rand"
 	"time"
 
-	pingpp "github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/user"
+	pingpp "github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/user"
 )
 
 var Demo = new(UserDemo)

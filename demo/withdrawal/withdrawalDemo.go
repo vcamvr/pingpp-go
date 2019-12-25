@@ -7,9 +7,9 @@
 package withdrawal
 
 import (
-	"github.com/PingPlusPlus/pingpp-go/pingpp/withdrawal"
-	"github.com/pingplusplus/pingpp-go/demo/common"
-	pingpp "github.com/pingplusplus/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/demo/common"
+	pingpp "github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/withdrawal"
 )
 
 var Demo = new(WithdrawalDemo)

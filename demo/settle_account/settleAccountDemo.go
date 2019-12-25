@@ -7,8 +7,8 @@
 package settle_account
 
 import (
-	"github.com/PingPlusPlus/pingpp-go/pingpp/settleAccount"
-	pingpp "github.com/pingplusplus/pingpp-go/pingpp"
+	pingpp "github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/settleAccount"
 )
 
 var Demo = new(SettleAccountDemo)

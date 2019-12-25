@@ -7,9 +7,9 @@
 package batch_withdraw
 
 import (
-	"github.com/PingPlusPlus/pingpp-go/pingpp/batchWithdrawal"
-	"github.com/pingplusplus/pingpp-go/demo/common"
-	pingpp "github.com/pingplusplus/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/demo/common"
+	pingpp "github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/batchWithdrawal"
 )
 
 var Demo = new(BatchWithdraw)

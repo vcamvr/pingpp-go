@@ -1,9 +1,9 @@
 package card
 
 import (
-	"github.com/pingplusplus/pingpp-go/demo/common"
-	"github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/cardInfo"
+	"github.com/vcamvr/pingpp-go/demo/common"
+	"github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/cardInfo"
 )
 
 var Demo = new(CardInfoDemo)

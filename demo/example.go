@@ -4,11 +4,11 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/pingplusplus/pingpp-go/demo/profitTransaction"
-	"github.com/pingplusplus/pingpp-go/demo/splitProfit"
-	"github.com/pingplusplus/pingpp-go/demo/splitReceiver"
-	"github.com/pingplusplus/pingpp-go/demo/subBank"
-	"github.com/pingplusplus/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/demo/profitTransaction"
+	"github.com/vcamvr/pingpp-go/demo/splitProfit"
+	"github.com/vcamvr/pingpp-go/demo/splitReceiver"
+	"github.com/vcamvr/pingpp-go/demo/subBank"
+	"github.com/vcamvr/pingpp-go/pingpp"
 )
 
 func readFile(path string) string {

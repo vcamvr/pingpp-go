@@ -9,9 +9,9 @@ package batch_transfer
 import (
 	"time"
 
-	"github.com/pingplusplus/pingpp-go/demo/common"
-	pingpp "github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/batchTransfer"
+	"github.com/vcamvr/pingpp-go/demo/common"
+	pingpp "github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/batchTransfer"
 )
 
 var Demo = new(BatchTransfer)

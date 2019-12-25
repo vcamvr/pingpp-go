@@ -8,10 +8,10 @@ package wxlite
  */
 
 import (
-	"github.com/pingplusplus/pingpp-go/demo/common"
+	"github.com/vcamvr/pingpp-go/demo/common"
 
-	pingpp "github.com/pingplusplus/pingpp-go/pingpp"
-	wxlite "github.com/pingplusplus/pingpp-go/pingpp/wxlite"
+	pingpp "github.com/vcamvr/pingpp-go/pingpp"
+	wxlite "github.com/vcamvr/pingpp-go/pingpp/wxlite"
 )
 
 // Demo 示例对象

@@ -3,7 +3,7 @@ package utils
 import (
 	"bytes"
 	"crypto/sha1"
-	pingpp "github.com/pingplusplus/pingpp-go/pingpp"
+	pingpp "github.com/vcamvr/pingpp-go/pingpp"
 	"log"
 	"net/http"
 	"net/url"

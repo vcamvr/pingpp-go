@@ -7,9 +7,9 @@
 package balance
 
 import (
-	"github.com/pingplusplus/pingpp-go/demo/common"
-	"github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/balanceTransaction"
+	"github.com/vcamvr/pingpp-go/demo/common"
+	"github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/balanceTransaction"
 )
 
 var TransactionDemo = new(BalanceTransactionDemo)

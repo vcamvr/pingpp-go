@@ -11,9 +11,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/pingplusplus/pingpp-go/demo/common"
-	"github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/balanceBonus"
+	"github.com/vcamvr/pingpp-go/demo/common"
+	"github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/balanceBonus"
 )
 
 var BonusDemo = new(BalanceBonusDemo)

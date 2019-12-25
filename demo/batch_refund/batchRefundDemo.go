@@ -9,9 +9,9 @@ package batch_refund
 import (
 	"time"
 
-	"github.com/pingplusplus/pingpp-go/demo/common"
-	"github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/batchRefund"
+	"github.com/vcamvr/pingpp-go/demo/common"
+	"github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/batchRefund"
 )
 
 var Demo = new(BatchRefundDemo)

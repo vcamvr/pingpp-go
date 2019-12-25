@@ -8,8 +8,8 @@
 package splitReceiver
 
 import (
-	"github.com/pingplusplus/pingpp-go/pingpp"
-	"github.com/pingplusplus/pingpp-go/pingpp/splitReceiver"
+	"github.com/vcamvr/pingpp-go/pingpp"
+	"github.com/vcamvr/pingpp-go/pingpp/splitReceiver"
 )
 
 // Demo 分账接收方示例

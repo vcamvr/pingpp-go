@@ -11,7 +11,7 @@ func TestPingxxClient(t *testing.T) {
 	assert.Nil(t, nil)
 
 	appID := "app_aPqnD0bPe1eTePyD"
-	Key = "sk_test_v14qP0uzvLuPeTW9e9qjH0qT"
+	Key = "sk_test_autocreateOm5afDPKS8mHTi"
 	LogLevel = 2
 	AccountPrivateKey = `-----BEGIN RSA PRIVATE KEY-----
 MIIEowIBAAKCAQEAuIfYpoep9yG/I2He+LuoCmfeCEkSCqVMf+SlGyHm2SZHSSA2
